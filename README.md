@@ -7,4 +7,4 @@ $ pip install vaderSentimnet
 $ pip install matplot
 
 To run the program use
-python3 sentimentanalysis.py
+$ python3 sentiment-analysis.py
