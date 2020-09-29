@@ -1,6 +1,6 @@
 # Sentiment-analyser
 
-Istall required liberies 
+Install required liberies 
 
 $ pip install nltk
 $ pip install vaderSentimnet
